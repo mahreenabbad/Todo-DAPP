@@ -1,0 +1,15 @@
+node_modules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+//0xb7761cd7bd4d53505485cba62320c4bc668f42cd smart contrac todo
